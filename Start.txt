@@ -1,1 +1,3 @@
 This is my first file
+This Amishi. How do you do?
+I am learning Python coding.
